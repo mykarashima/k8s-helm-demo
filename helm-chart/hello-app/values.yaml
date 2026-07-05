@@ -1,0 +1,17 @@
+replicaCount: 2
+
+image:
+  repository: ghcr.io/SEU_USUARIO/SEU_REPO
+  tag: latest
+  pullPolicy: Always
+
+service:
+  type: NodePort
+  port: 80
+  targetPort: 3000
+
+resources: {}
+
+# Preencha se a imagem do GHCR for privada.
+# Veja instrucoes no README para criar esse secret.
+imagePullSecrets: []

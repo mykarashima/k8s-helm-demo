@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://claude.ai/chat/e8d7c4fa-e4d4-4945-a2be-1173d10ca0cb
+HostUrl=https://claude.ai/api/organizations/02c4971c-92a4-42b1-9d22-4fd172ed95c8/conversations/e8d7c4fa-e4d4-4945-a2be-1173d10ca0cb/wiggle/download-file?path=%2Fmnt%2Fuser-data%2Foutputs%2Fk8s-helm-demo.zip

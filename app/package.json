@@ -1,0 +1,12 @@
+{
+  "name": "k8s-helm-demo",
+  "version": "1.0.0",
+  "description": "App basica para demo de deploy com Helm no k8s do Docker Desktop",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
